@@ -1,8 +1,10 @@
+import React from "react";
+
 const Dummy = () => {
   return (
     <div>
       <input type="text" />
-      <button></button>
+      <button>Button</button>
     </div>
   );
 };
